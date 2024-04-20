@@ -18,5 +18,8 @@
         "titleBar.inactiveBackground": "#fdfdfd99",
         "titleBar.inactiveForeground": "#15202b99"
     },
-    "peacock.color": "#fdfdfd"
+    "peacock.color": "#fdfdfd",
+    "pasteImage.basePath": "${currentFileDir}",
+    "pasteImage.path": "${currentFileDir}/assets/images",
+    "pasteImage.prefix": "./"
 }
